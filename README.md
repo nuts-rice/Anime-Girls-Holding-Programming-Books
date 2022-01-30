@@ -3,7 +3,7 @@ Anime Girls Holding Programming Books
 
 # Contribution Guidelines
 
-* NO CRYPTO GO AWAY
+* no gatekeeping :-)
 
 * Images must have descriptive file names in the following format:
 
